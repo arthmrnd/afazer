@@ -56,10 +56,11 @@ form {
     border-top: 1px solid #e5e5e5;
     cursor: pointer;
     font-size: 1.5rem;
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
 }
 
 .tarefas li.completed {
+    background-color: #80bd93;
     color: #b6b6b6;
     text-decoration: line-through;
 }
